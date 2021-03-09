@@ -18,6 +18,7 @@ body {
   font-family: karla, sans-serif;
   line-height: 1.5rem;
   background-color: hsl(206, 47%, 93%);
+  overflow-y: hidden;
 }
 
 /* Container */
